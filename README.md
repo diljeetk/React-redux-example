@@ -1,8 +1,3 @@
-![](http://i.imgur.com/DUiL9yn.png)
-
-# React/Sass/Redux Boilerplate
-
-Boilerplate and guide for a React/Sass/Redux build.
 
 ## Getting Started
 
@@ -23,11 +18,12 @@ Start the development server (changes will now update live in browser)
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
-## Links
 
-- [Donate](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+Problem Statement
+Create a React application having two screens with proper navigation. You will be using API from the website http://swapi.co .Please go through the documentation of the swapi website and understand the API response carefully to chose the right set of APIs and call them with the proper arguments. The application is supposed to have 2 screens:
+Screen 1 (Login Screen)
+Allow the user to login as a character from STAR WARS using the character name as the username and birth year as the password. Example: • Username: Luke Skywalker • Password : 19BBY
+Screen 2 (Search Screen)
+Implement a type-along search which searches for planets and lists them in components that are sized relative to their population on every keypress in the inputﬁeld. (eg: youcanuseabiggerfontsizeforaplanetwithlargerpopulation, or even show a bigger container size for a planet with larger population - we would like to see your creativity). On clicking the item from the results of the type-along search, it should display the corresponding planet information. You also need to provide the relevant Logout ﬂow properly in your application. 
+
+
